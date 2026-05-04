@@ -1,8 +1,0 @@
-{
-  "name": "shekinah-catalogo",
-  "version": "1.0.0",
-  "main": "api/produtos.js",
-  "dependencies": {
-    "@neondb/serverless": "^0.9.0"
-  }
-}
