@@ -1,0 +1,7 @@
+{
+  "name": "api-shekinah",
+  "version": "1.0.0",
+  "dependencies": {
+    "@neondb/serverless": "^0.9.0"
+  }
+}
